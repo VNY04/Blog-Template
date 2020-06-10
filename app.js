@@ -1,4 +1,7 @@
 //jshint esversion:6
+//install node module by npm init before running this file
+//Install required npm modules which are mentioned in this file to run this file
+
 
 const express = require("express");
 const bodyParser = require("body-parser");
